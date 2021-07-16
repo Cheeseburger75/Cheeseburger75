@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cheeseburger75
 - 👀 I’m interested in Tech and Gaming . . .
 - 🌱 I’m currently learning NOTHING . . 
-- 📫 How to reach me: https://twitter.com/Cheemsburger420 (Discord: U S E R . . .#0001) [NOTE: My DMs on Discord are currently disabled, if you need my Discord just PM me on Twitter and send me your Tag, and i might friend you
+- 📫 How to reach me: https://twitter.com/Cheemsburger420 (Discord: cheems.#1111) [NOTE: My DMs on Discord are currently disabled, if you need my Discord just PM me on Twitter and send me your Tag, and i might friend you
 
 <!---
 Cheeseburger75/Cheeseburger75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
