@@ -1,4 +1,4 @@
 - 👋 Hi, I’m C7DE!
 - 👀 I’m interested in Tech and Gaming . . .
 - 🌱 I’m not currently learning anything . . .
-- 📫 How to reach me: https://twitter.com/C7DE_
+- 📫 You can reach me on Twitter: @C7DE_
