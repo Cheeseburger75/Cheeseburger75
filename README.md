@@ -1,4 +1,1 @@
-- 👋 Hi, I’m delta!
-- 👀 I’m interested in Tech and Gaming . . .
-- 🌱 I’m currently trying to work on my stupid website . . .
-- 📫 You can't reach me anywhere
+Hi, I'm delta.
