@@ -3,6 +3,9 @@ I use Void Linux on my Laptop on a daily basis since March 25th 2023. I've stopp
 Below is my Neofetch:
 ![image](https://user-images.githubusercontent.com/86793541/227712456-3f543dc4-575f-4f58-8331-f2e99a3a470a.png)
 
+[UPDATED NEOFETCH \/]
+![image](https://user-images.githubusercontent.com/86793541/227730541-726ee593-d8a0-4c62-8afb-f6b453de53a1.png)
+
 
 
 
