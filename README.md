@@ -1,5 +1,4 @@
-Hi, I'm delta. I am some random guy from Germany who likes Coding (still can't code smh), Linux, and anything else related to Tech.
-I use [Arch Linux](https://archlinux.org/) on my Laptop on a daily basis since April 3rd 2023. 
+![Metrics](https://metrics.lecoq.io/deltaBTW?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FBerlin)
 
 Neofetch: ![grafik](https://user-images.githubusercontent.com/86793541/229770033-860c3315-b6d5-4cb3-a67c-14e10b58d1e2.png)
 
@@ -9,4 +8,3 @@ Neofetch: ![grafik](https://user-images.githubusercontent.com/86793541/229770033
 
 
 
-this is all ig
