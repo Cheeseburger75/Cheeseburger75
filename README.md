@@ -1,13 +1,11 @@
 # Welcome 👋
 
-I don't code as I don't have the knowledge for coding stuff.
-I like tech stuff.
+I like linux.
 
 <img align="right" alt="delta" width="180" src="https://avatars.githubusercontent.com/u/86793541?v=4" />
 
 ### My interests
 * 💻 Technology
-* yeah thats it ig
 
 ### What am I working on?
 * GrainOS, an Arch Linux-based distribution
