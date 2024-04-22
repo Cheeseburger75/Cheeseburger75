@@ -8,7 +8,7 @@ I like linux.
 * 💻 Technology
 
 ### What am I working on?
-* ~~GrainOS, an Arch Linux-based distribution~~ Development has been handed over to [this repository](https://github.com/GrainCult/GrainOS) over a month ago. ( ~March 2024)
+* ~~GrainOS, an Arch Linux-based distribution~~ Development has been handed over to [this repository/organization](https://github.com/GrainCult/GrainOS) over a month ago. ( ~March 2024)
 
 
 ### Statistics
