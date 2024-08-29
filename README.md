@@ -9,7 +9,7 @@ I like linux.
 
 ### What am I working on?
 * ~~GrainOS, an Arch Linux-based distribution~~ Discontinued.
-* [StarOS (only partially)(https://github.com/konadaa/staros)
+* [StarOS (only partially)](https://github.com/konadaa/staros)
 
 ### Statistics
 [![delta's GitHub stats](https://github-readme-stats.vercel.app/api?username=delta2571&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
