@@ -8,8 +8,7 @@ I like linux.
 * 💻 Technology
 
 ### What am I working on?
-* ~~GrainOS, an Arch Linux-based distribution~~ Discontinued.
-* [128OS (only partially)](https://github.com/128projects/)
+* My website
 
 ### Statistics
 [![delta's GitHub stats](https://github-readme-stats.vercel.app/api?username=delta2571&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
